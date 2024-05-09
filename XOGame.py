@@ -1,4 +1,4 @@
-# X_O game from chatgtp
+#XO game from chatgtp
 import tkinter as tk
 from tkinter import messagebox
 
